@@ -1,4 +1,5 @@
-new (function() {
+var data;
+(function() {
 	var ext = this;
 	var descriptor = {
 		blocks: [
