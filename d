@@ -1,4 +1,4 @@
-
+var data;
 new (function() {
 	var ext = this;
 	var descriptor = {
